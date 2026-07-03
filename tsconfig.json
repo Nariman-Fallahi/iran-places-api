@@ -5,6 +5,8 @@
     "moduleResolution": "bundler",
     "types": ["node"],
     "strict": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "rootDir": "./src",
+    "outDir": "./dist"
   }
 }
